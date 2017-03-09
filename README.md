@@ -12,7 +12,7 @@
   in optical networking like ARPANET, NSFNET, USANET, NJLATA.
   
 ## Future work
-- Papertitled ###An Online Cost-Efficient Protection Scheme for Quick Recovery in All-Optical WDM Mesh Networks
+- Papertitled "An Online Cost-Efficient Protection Scheme for Quick Recovery in All-Optical WDM Mesh Networks"
   on this work under peer review at Photonic Network Communications, Springer.
 
 ### Abstract of my paper
